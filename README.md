@@ -8,4 +8,4 @@ Blood transfusion saves lives from replacing lost blood during major surgery or 
 In this Project, we work with data collected from the donor database of Blood Transfusion Service Center in Hsin-Chu City in Taiwan. The center passes its blood transfusion service bus to one university in Hsin-Chu City to gather blood donated about every three months. The dataset, obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center), consists of a random sample of 748 donors. 
 Our task is to predict if a blood donor will donate within a given time window. We build up a full model-building process: from inspecting the dataset to using the tpot library to automate our machine learning pipeline.
 
-Ipython notebook used can be found [here]().
+Ipython notebook used can be found [here](https://github.com/shanj0716/Blood-Donations-Prediction/blob/master/predict_blood_donate.ipynb).
